@@ -1,6 +1,0 @@
-obyasnyau_bumeram = {'Скуф': 'Человек за 40 с пивным животом и залысиной', 'Рофл' : 'Шутка/сарказм'}
-word = input('Введите слово')
-if word in obyasnyau_bumeram.keys():
-    print(obyasnyau_bumeram[word])
-else:
-    print('Такого слова нет')
